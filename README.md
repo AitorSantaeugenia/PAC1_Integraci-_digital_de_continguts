@@ -7,3 +7,6 @@ Ejercicio con la biblioteca Minim (para audio) en processing. Practicamente clic
 <strong>[EN]</strong><br>
 Processing exercise using Minim library. You have 4 objects and when you click one it will play a sound. Each sounds (four sounds for four objects) has a different filter.<br><br>
 ![Alt text](https://cloud.githubusercontent.com/assets/14861253/20687319/527cb698-b5bc-11e6-92ac-499cd43b3c71.png)
+<br><br>
+Processing:<br>https://processing.org/<br>
+Minim library:<br>Add from the library, wtf. "Sketch>Import library>Add library>Minim".
