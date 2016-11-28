@@ -1,8 +1,8 @@
 # PAC1 Integració digital de continguts
 PAC1 Integració digital de continguts<br>
-[CA]<br>
+<strong>[CA]</strong><br>
 Exercici amb la biblioteca Minim (per a àudio) en processing. Pràcticament clicam a un objecte i es reproduirà un so, si en clicam un altre, un de diferent.<br>
-[ES]<br>
+<strong>[ES]</strong><br>
 Ejercicio con la biblioteca Minim (para audio) en processing. Practicamente clicaremos en uno o varios objetos y escucharán diferentes audios segun el objeto clicado.<br>
-[EN]<br>
+<strong>[EN]</strong><br>
 Processing exercise using Minim library. You have 4 objects and when you click one it will play a sound. Each sounds (four sounds for four objects) has a different filter.<br>
