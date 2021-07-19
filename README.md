@@ -9,4 +9,4 @@ Processing exercise using Minim library. You have 4 objects and when you click o
 ![Alt text](https://cloud.githubusercontent.com/assets/14861253/20687319/527cb698-b5bc-11e6-92ac-499cd43b3c71.png)
 <br><br>
 Processing:<br>https://processing.org/<br>
-Minim library:<br>Add from the library, wtf. "Sketch>Import library>Add library>Minim".
+Minim library:<br>Add from the library doing: "Sketch>Import library>Add library>Minim".
